@@ -1,4 +1,4 @@
 # gw storage implementations
 
-This repo provides several non-local implementations of the storage interface.
-The implementation `LocalStorage` is already included in the framework as a builtin.
+This repo is for providing several non-local implementations of the storage interface.
+Note that the implementation `LocalStorage` is already included in the framework as a builtin.
