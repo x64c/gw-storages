@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.41.3
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.11
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.97.0
-	github.com/x64c/gw v0.0.0-20260313031350-4147567fdf44
+	github.com/x64c/gw v0.0.0-20260313113710-11c5e51bbaba
 )
 
 require (
